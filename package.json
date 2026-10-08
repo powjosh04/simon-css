@@ -21,6 +21,24 @@
   },
   "homepage": "https://github.com/webprogramming260/simon-css#readme",
   "devDependencies": {
-    "vite": "^8.3.2"
+    "vite": "^8.3.3"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "detect-libc": "^2.1.2",
+    "fdir": "^6.5.0",
+    "lightningcss": "^1.33.0",
+    "lightningcss-win32-x64-msvc": "^1.33.0",
+    "nanoid": "^3.3.19",
+    "picocolors": "^1.1.1",
+    "picomatch": "^4.0.7",
+    "postcss": "^8.5.28",
+    "react": "^19.3.0",
+    "react-bootstrap": "^2.10.10",
+    "react-dom": "^19.3.0",
+    "react-router-dom": "^7.18.4",
+    "rolldown": "^1.2.12",
+    "source-map-js": "^1.2.2",
+    "tinyglobby": "^0.2.17"
   }
 }
